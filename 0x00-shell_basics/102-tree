@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir welcome
+mkdir ~/alx-system_engineering-devops/0x00-shell_basics/welcome/to
+touch ~/alx-system_engineering-devops/0x00-shell_basics/welcome/to/school
