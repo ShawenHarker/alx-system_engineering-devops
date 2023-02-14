@@ -1,0 +1,2 @@
+#!bin/bash
+sudo touch /etc/profile.d/BEST_SCHOOL.sh | export BEST="School"
