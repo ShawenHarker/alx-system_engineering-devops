@@ -1,2 +1,2 @@
 #!/bin/bash
-POWER=42784 | DIVIDE=32 | echo "scale=0 ; $POWER / $DIVIDE" | bc
+POWER=42784 | DIVIDE=32 | RESULTS=POWER/DIVIDE | echo $RESULTS
