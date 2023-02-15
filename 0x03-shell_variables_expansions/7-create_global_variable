@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo echo export BEST="School" > /etc/profile.d/BEST_SCHOOL.sh | bash
+echo export BEST="School" > /etc/profile.d/BEST_SCHOOL.sh | bash
